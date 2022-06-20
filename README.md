@@ -2,11 +2,11 @@
 
 ## Overview
 
-A performed analysis in response to academic dishonesty evidence found in the math and reading scores for ninth graders attending **Thomas High School**. 
+A performed analysis in response to academic dishonesty evidence found in the math and reading scores for 9th graders attending **Thomas High School**. 
 
 ### Purpose
 
-This analysis was performed using Python pandas to assess how the replacement of Thomas High School ninth grader's reading scores and math scores affect the data.
+This analysis was performed using Python pandas to assess how the replacement of Thomas High School 9th grader's reading scores and math scores affect the data.
 
 
 ## Results
