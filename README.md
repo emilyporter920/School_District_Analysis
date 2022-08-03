@@ -254,3 +254,10 @@ This analysis was performed using Python pandas to assess how the replacement of
 2. The School Summary Analysis of Thomas High School saw a drop in the Average Math Score, Percent Passing Math, Percent Passing Reading, and the Percent Overall Passing while the Reading Score increased.
 3. While Thomas High School remained in 2nd place in the Top Schools, the Average Math Score, Average Reading Score, Percent Passing Math, Percent Passing Reading, and Overall Passing slightly decreased.
 4. There is no longer any math scores or reading scores for 9th graders attending Thomas High School. These original scores have now been replaced with "NaN".
+
+## Questions
+
+* You can contact me via email or GitHub!
+
+    * Email: emilyporter920@gmail.com
+    * GitHub Profile: Emily Porter || github.com/emilyporter920 
